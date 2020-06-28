@@ -1,7 +1,7 @@
 # multi-label-classification
  implement and combine an image classifier containing recurrent neural networks (RNNs) (LSTM and GRU) for caption-label analy- sis with EfficientNet convolution networks for multi- label image classification.
 
-# competetion ranking 8th out of 124
+# competetion
 https://www.kaggle.com/c/2020s1comp5329assignment2/overview
 
 # Data (find at kaggle pages)
